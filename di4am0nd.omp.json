@@ -71,7 +71,7 @@
         {
           "foreground": "#FFBD00",
           "style": "plain",
-          "template": " ",
+          "template": "\uf120 ",
           "type": "text"
         }
       ],
